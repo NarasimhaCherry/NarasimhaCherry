@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NarasimhaCherry
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Full stack development 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Frontend development
 - 📫 How to reach me ... https://www.linkedin.com/in/narasimha-charithartha
 
 <!---
